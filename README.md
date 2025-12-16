@@ -8,9 +8,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="naver-site-verification" content="58b1bde8980209fdf2c2dc8c86053de69af89606" />
 <meta name="google-site-verification" content="04DPOkbqDZAMtdlepfHPebxbjYsg7j38FI1_toEu1ww" />
-<title>카드깡 | 카드 현금화 | 카드깡 수수료 | 10분내로</title>
+<title>카드깡 | 카드 현금화</title>
 <meta name="description" content="파란금융은 합법적인 1:1 맞춤 금융컨설팅으로 급한 자금을 안전하게 해결해 드립니다. 은행·카드사 규정을 준수하며 24시간 상담 가능, 수수료 및 조건을 사전에 투명하게 안내합니다.">
-<meta name="keywords" content="파란금융,카드 현금화, 급한 자금, 안전한 금융, 합법적인 금융, 자금 설계, 24시간 상담, 금융 전문가">
+<meta name="keywords" content="파란금융,카드깡, 카드 현금화, 급한 자금, 안전한 금융, 합법적인 금융, 자금 설계, 24시간 상담, 금융 전문가">
 
 <script type="application/ld+json">
 {
