@@ -18,7 +18,7 @@
   "@type": ["Organization", "FinancialService"],
   "name": "파란금융",
   "url": "https://xn--jj0bo3py6mlql.com/",
-  "description": "파란금융은 합법적인 1:1 맞춤 금융컨설팅으로 급한 자금을 안전하게 해결해 드립니다. 은행·카드사 규정을 준수하며 24시간 상담 가능, 수수료 및 조건을 사전에 투명하게 안내합니다.",
+  "description": "파란금융은 카드깡, 카드 현금화, 급한 자금을 안전하게 해결해 드립니다. 은행·카드사 규정을 준수하며 24시간 상담 가능, 수수료 및 조건을 사전에 투명하게 안내합니다.",
   "contactPoint": {
     "@type": "ContactPoint",
     "contactType": "Customer Service",
