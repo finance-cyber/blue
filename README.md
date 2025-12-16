@@ -1,6 +1,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="naver-site-verification" content="58b1bde8980209fdf2c2dc8c86053de69af89606" />
 <meta name="google-site-verification" content="04DPOkbqDZAMtdlepfHPebxbjYsg7j38FI1_toEu1ww" />
 <title>파란금융 | 맞춤 금융컨설팅</title>
@@ -22,7 +23,6 @@
   }
 }
 </script>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     * {
       box-sizing: border-box;
