@@ -3,7 +3,17 @@
   <text y='0.9em' font-size='90'>🌐</text>
 </svg>">
 <html lang="ko">
-<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17815712006">
+</script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17815712006');
+</script>
+  <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="naver-site-verification" content="58b1bde8980209fdf2c2dc8c86053de69af89606" />
