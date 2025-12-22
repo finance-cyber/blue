@@ -19,8 +19,8 @@
   <meta name="naver-site-verification" content="58b1bde8980209fdf2c2dc8c86053de69af89606" />
 <meta name="google-site-verification" content="04DPOkbqDZAMtdlepfHPebxbjYsg7j38FI1_toEu1ww" />
 <title>카드깡 | 카드 현금화</title>
-<meta name="description" content="카드깡, 카드 현금화, 급한 자금을 안전하게 해결해 드립니다. 은행·카드사 규정을 준수하며 24시간 상담 가능">
-<meta name="keywords" content=",카드깡, 카드 현금화, 급한 자금, 안전한 금융, 합법적인 금융, 자금 설계, 24시간 상담, 금융 전문가">
+<meta name="description" content="카드깡, 신용카드 현금화, 급한 자금을 안전하게 해결해 드립니다. 은행·카드사 규정을 준수하며 24시간 상담 가능">
+<meta name="keywords" content=",카드깡, 신용카드 현금화, 급한 자금, 안전한 금융, 합법적인 금융, 자금 설계, 24시간 상담, 금융 전문가">
 
 <script type="application/ld+json">
 {
