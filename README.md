@@ -43,7 +43,7 @@
   "@context": "https://schema.org",
   "@type": ["Organization", "FinancialService"],
   "name": "파란금융",
-  "alternateName": "파란금융",
+  "alternateName": "카드깡",
   "url": "https://xn--jj0bo3py6mlql.com/",
   "description": "카드 현금화(카드깡) 방법과 합법 여부, 수수료, 초보자도 쉽게 이해할 수 있는 절차 설명.",
   "contactPoint": {
